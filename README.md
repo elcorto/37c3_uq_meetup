@@ -31,3 +31,4 @@ organized by [elcorto](https://github.com/elcorto)
 
 * Resource about Gaussian Processes: https://github.com/elcorto/gp_playground
 * Calibration for regression, lots of literature refs: https://github.com/uncertainty-toolbox/uncertainty-toolbox
+* [Baba Brinkman - Good Bayesian](https://youtu.be/qV6Wc_f1Cgo)
