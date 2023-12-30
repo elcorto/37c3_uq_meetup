@@ -9,11 +9,20 @@ organized by [elcorto](https://github.com/elcorto)
 ### General UQ
 
 * [A Survey of Uncertainty in Deep Neural Networks](http://arxiv.org/abs/2107.03342)
+
+Bayesian-based
+
 * [The infamous "Deep Ensemble paper"](https://proceedings.neurips.cc/paper/2017/hash/9ef2ed4b7fd2c810847ffa5fa85bce38-Abstract.html)
 * [Laplace Redux](https://arxiv.org/abs/2106.14806)
 * Spectral-normalized Neural Gaussian Process (SNGP)
   * [arxiv version](https://arxiv.org/abs/2205.00403)
   * [journal version](https://jmlr.org/papers/v24/22-0479.html)
+
+Conformal Prediction
+
+* [MAPIE](https://github.com/scikit-learn-contrib/MAPIE): Conformal prediction with sklearn
+  API, [no multi-variate
+  regression supported so far (2023-12)](https://github.com/scikit-learn-contrib/MAPIE/issues/97)
 
 ### Related to language models
 
