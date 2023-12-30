@@ -13,7 +13,7 @@ organized by [elcorto](https://github.com/elcorto)
 * [Laplace Redux](https://arxiv.org/abs/2106.14806)
 * Spectral-normalized Neural Gaussian Process (SNGP)
   * [arxiv version](https://arxiv.org/abs/2205.00403)
-  * [conference version](https://jmlr.org/papers/v24/22-0479.html)
+  * [journal version](https://jmlr.org/papers/v24/22-0479.html)
 
 ### Related to language models
 
