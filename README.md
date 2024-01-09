@@ -36,6 +36,13 @@ Conformal Prediction
 * [Language Models (Mostly) Know What They
   Know](https://arxiv.org/abs/2207.05221) -- huge author list, all of them from Anthropic
 
+Further material re. LM hallucination mitigation techniques
+
+* <https://mastodon.social/@HPC_Guru/111724299897994609> -> https://www.fastcompany.com/91006321/how-ai-companies-are-trying-to-solve-the-llm-hallucination-problem
+  * https://github.com/vectara/hallucination-leaderboard
+  * [A Comprehensive Survey of Hallucination Mitigation Techniques in Large
+    Language Models](https://arxiv.org/abs/2401.01313)
+
 ## Other
 
 * Resource about Gaussian Processes: https://github.com/elcorto/gp_playground
