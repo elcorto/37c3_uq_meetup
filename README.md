@@ -48,6 +48,11 @@ Further material re. LM hallucination mitigation techniques
 
 ## Other
 
+* [`torch-uncertainty`](https://github.com/ENSTA-U2IS/torch-uncertainty)
+  -- torch library implementing many common UQ methods
+  * [Awesome list about
+    UQ](https://github.com/ENSTA-U2IS/awesome-uncertainty-deeplearning) --
+    curated by `torch-uncertainty` devs
 * Resource about Gaussian Processes: https://github.com/elcorto/gp_playground
 * Calibration for regression, lots of literature refs: https://github.com/uncertainty-toolbox/uncertainty-toolbox
 * [Baba Brinkman - Good Bayesian](https://youtu.be/qV6Wc_f1Cgo)
