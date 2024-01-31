@@ -13,6 +13,7 @@ organized by [elcorto](https://github.com/elcorto)
 Bayesian-based
 
 * [The infamous "Deep Ensemble paper"](https://proceedings.neurips.cc/paper/2017/hash/9ef2ed4b7fd2c810847ffa5fa85bce38-Abstract.html)
+* [Dropout paper](https://dl.acm.org/doi/10.5555/3045390.3045502)
 * [Laplace Redux](https://arxiv.org/abs/2106.14806)
 * Spectral-normalized Neural Gaussian Process (SNGP)
   * [arxiv version](https://arxiv.org/abs/2205.00403)
