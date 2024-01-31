@@ -36,6 +36,8 @@ Conformal Prediction
   Sheep?](https://arxiv.org/abs/2312.17249)
 * [Language Models (Mostly) Know What They
   Know](https://arxiv.org/abs/2207.05221) -- huge author list, all of them from Anthropic
+* [LM-Polygraph: Uncertainty Estimation for Language
+  Models](https://arxiv.org/abs/2311.07383)
 
 Further material re. LM hallucination mitigation techniques
 
